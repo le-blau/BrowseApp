@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <!--ボタンを浮き出しているように見せる-->
+    <gradient
+        android:angle="0090"
+        android:endColor="#62b4fc"
+        android:startColor="#02547D" />
+    <padding
+        android:bottom="11dp"
+        android:left="5dp"
+        android:right="7dp"
+        android:top="7dp" />
+    <corners android:radius="0dp" />
+</shape>

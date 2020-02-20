@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BrowseApp4</string>
+
+    <string name="action_reload">ページを再読込み</string>
+    <string name="action_forward">進む</string>
+    <string name="action_back">戻る</string>
+    <string name="browse_button">検索</string>
+</resources>
